@@ -43,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![image](https://github.com/selvajobin/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/149985750/545faba5-fe36-4842-b11a-6d0a2bb6576a)
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
